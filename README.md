@@ -96,6 +96,12 @@ These results demonstrate that contrastive pretraining achieves performance clos
 │   ├── edf_supervised.ipynb
 │   └── edf_supervised_10.ipynb
 │
+├── Learning-with-FrameProjections/
+│   ├── main.py
+│   ├── trainer_SSL_LE.py
+│   ├── models/
+│   └── data_preprocess/
+│
 ├── images/
 │   ├── Architecture.png
 │   └── sleed_edf_signals.png
